@@ -94,5 +94,8 @@ Bronze Titanium
 
 .
 ├── index.html # Main structure, UI, and Three.js library inclusion
+
 ├── style.css # Styling for the UI (title, color picker, controls)
+
 └── script.js # Three.js scene setup, model geometry, lighting, animation loop, and user interaction logic
+
