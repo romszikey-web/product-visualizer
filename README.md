@@ -39,13 +39,12 @@ Clone the Repository:
 git clone [Your-GitHub-Repository-URL]
 cd iphone-visualizer
 
-
 Open the File:
 This project consists of standard HTML, CSS, and JavaScript files and does not require a build step or backend server. Simply open the index.html file in your web browser:
 
 open index.html
-# or navigate to the file path directly in your browser
 
+# or navigate to the file path directly in your browser
 
 (Note: For some modern browsers, if Three.js assets fail to load due to file-access security restrictions, you may need to run a simple local web server like python3 -m http.server.)
 
@@ -94,6 +93,6 @@ Bronze Titanium
 📝 Project Structure
 
 .
-├── index.html         # Main structure, UI, and Three.js library inclusion
-├── style.css          # Styling for the UI (title, color picker, controls)
-└── script.js          # Three.js scene setup, model geometry, lighting, animation loop, and user interaction logic
+├── index.html # Main structure, UI, and Three.js library inclusion
+├── style.css # Styling for the UI (title, color picker, controls)
+└── script.js # Three.js scene setup, model geometry, lighting, animation loop, and user interaction logic
